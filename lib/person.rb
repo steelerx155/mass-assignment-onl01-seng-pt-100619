@@ -1,6 +1,7 @@
 class Person
 #your code here
-attr_accessor :name, :birthday, :
+attr_accessor :name, :birthday, :hair_color, :eye_color, :height
+
   def initialize 
     
 end
