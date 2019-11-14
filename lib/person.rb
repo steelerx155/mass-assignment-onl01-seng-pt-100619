@@ -8,7 +8,7 @@ attr_accessor :name, :birthday, :hair_color, :eye_color, :height
     @hair_color = hair_color
     @eye_color = eye_color
     @height = height
-    self.send
+    
   end
     
 end
